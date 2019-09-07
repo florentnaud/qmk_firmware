@@ -1,3 +1,7 @@
+# WARNING: This is a fork!
+
+Ce projet est un fork du [QMK firmware](https://github.com/jackhumbert/qmk_firmware) afin d'ajouter à l'ergodox\_ez un layout bepo personnel. Le layout est principalement basé sur le travail de yekCim (du forum BÉPO, voir la [discussion](http://forum.bepo.fr/viewtopic.php?id=981)). J'ai simplement ajouté toute une partie pour la main gauche dans le layer2 (num) et procédé à quelques ajustements personnels.
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
